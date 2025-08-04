@@ -40,3 +40,12 @@ ul {
   display: flex;
   gap: 16px;
 }
+.like {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 8px;
+}
+.cardDiv {
+  display: flex;
+}
